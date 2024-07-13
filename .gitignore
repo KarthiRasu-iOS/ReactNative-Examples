@@ -40,6 +40,11 @@ node_modules/
 npm-debug.log
 yarn-error.log
 
+bundle/
+eslintrc.js
+prettierrc.js
+watchmanconfig
+__tests__/
 # fastlane
 #
 # It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
